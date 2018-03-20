@@ -1,4 +1,5 @@
-# Position Taken in Tic Tac Toe
+Hey Everyone,
+I am stuck on the Tic Tac Toe Position Taken.  I do not understand how to use default[index] to compare to board and check if there is a " " empty string position.  Anyone able to help out.  My understanding is that I need to evaluate default[index] to " ".
 
 ## Objectives
 
