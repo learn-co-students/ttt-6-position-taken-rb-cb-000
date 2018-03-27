@@ -2,8 +2,6 @@
 
 
 def position_taken?(board, position)
-  # if board = false "not taken"
-  # board = [" ", " ", "X"]
   if board[position] == " "
     false
   elsif board[position] == ""
